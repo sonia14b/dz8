@@ -1,0 +1,43 @@
+.div {
+    margin: auto;
+    width: 350px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.img {
+    width: 350px;
+    height: 200px;
+}
+
+.title {
+    color: #161d2c;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0px;
+    margin-bottom: 4px;
+}
+
+.text {
+    padding: 15px 15px 15px 15px;
+}
+
+.span {
+    color: #ea535d;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.lorem {
+    margin: 5px 0px 5px 0px;
+    color: #1e2532;
+}
+
+.aa {
+    margin: 15px 170px 10px 0px;
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color: #f9f1eb;
+    background-color: #ffc107;
+    padding: 5px 20px 5px 20px;
+}
